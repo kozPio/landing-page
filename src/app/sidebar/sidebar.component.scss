@@ -1,0 +1,11 @@
+.sidbar-container {
+  display: flex;
+  flex-direction: column;
+  background-color: gray;
+  color: #fff;
+  height: 100%;
+  box-sizing: border-box;
+  border-right: 1ps solid rgb(201, 157, 157);
+  width: 100%;
+  overflow: visible;
+}
